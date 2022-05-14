@@ -1,0 +1,5 @@
+pyvoxsurf
+trimesh
+numpy
+glob
+h5py
