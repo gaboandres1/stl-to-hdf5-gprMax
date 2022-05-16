@@ -20,6 +20,6 @@ python stl_to_hdf5.py 0.5
 ```
 ## Results
 The example files on this repository displayed in [paraview](https://www.paraview.org/download/).
-![image](./5mm_view.png)
-![image](./2mm_view.png)
-![image](./1mm_view.png)
+| 5 mm | 2 mm | 1 mm | 0.5 mm |
+| ------------- | ------------- | ------------- | ------------- |
+| ![image](./5mm_view.png)  | ![image](./2mm_view.png)  | ![image](./1mm_view.png)  | ![image](./05mm_view.png)  |
