@@ -23,9 +23,6 @@ The example files on this repository displayed in [paraview](https://www.paravie
 | Resolution | 3D View |
 | ------------- | ------------- |
 | 5.0 mm  | ![image](./5mm_view.png)  |
-| ------------- | ------------- |
 | 2.0 mm  | ![image](./2mm_view.png)  |
-| ------------- | ------------- |
 | 1.0 mm  | ![image](./1mm_view.png)  |
-| ------------- | ------------- |
 | 0.5 mm  | ![image](./05mm_view.png)  |
