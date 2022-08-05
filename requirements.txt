@@ -1,5 +1,6 @@
-pyvoxsurf
-trimesh
+#pyvoxsurf
+#trimesh
+stl-to-voxel
 numpy
-glob
+#glob
 h5py

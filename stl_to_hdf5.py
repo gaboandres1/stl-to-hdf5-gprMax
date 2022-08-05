@@ -40,6 +40,9 @@ try:
 
     for i, file in enumerate(files):
         mesh = trimesh.load(file)
+        print(file)
+        print(mesh)
+        print((int(file.split("\\")[0]) + 1)*pyvoxsurf.voxelize(mesh.vertices, mesh.faces, bounds, resolution, "Inside").astype(np.int16))
         volumes[i] = (int(file.split("\\")[0]) + 1)*pyvoxsurf.voxelize(mesh.vertices, mesh.faces, bounds, resolution, "Inside").astype(np.int16)
         #print(file)
         #print(i)
